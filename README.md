@@ -1,16 +1,13 @@
-## Hi there 👋
+Adham, From cairo,Egypt 
 
-<!--
-**Adhamalsaaed/Adhamalsaaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student | Beginner developer
 
-Here are some ideas to get you started:
+##  Skills
+-  Bash scripting
+-  Basic HTML & CSS (can read & understand code)
+-  C++ (learning)
+-  Python (upcoming)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- Arabic (Native)
+- English (A2)
