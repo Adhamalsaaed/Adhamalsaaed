@@ -7,6 +7,7 @@ Cybersecurity student | Beginner developer
 -  Basic HTML & CSS (can read & understand code)
 -  C++ (learning)
 -  Python (upcoming)
+-  Digital Forensics — file analysis, steganography, disk imaging ,...
 
 ## Languages
 - Arabic (Native)
